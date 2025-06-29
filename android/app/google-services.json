@@ -12,7 +12,12 @@
           "package_name": "com.example.cse299_enqvision"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "395140475361-d9tdicdslupkps868g57ip1jb9fd9aj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAarawMbD647oovz23grznUwo3TkgHe3IE"
@@ -20,7 +25,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395140475361-d9tdicdslupkps868g57ip1jb9fd9aj2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "395140475361-cr0klu1uh71dg80bku16cb6j1mfivd8i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cse299Enqvision"
+              }
+            }
+          ]
         }
       }
     },
@@ -31,7 +48,12 @@
           "package_name": "com.example.enqvision"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "395140475361-d9tdicdslupkps868g57ip1jb9fd9aj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAarawMbD647oovz23grznUwo3TkgHe3IE"
@@ -39,7 +61,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395140475361-d9tdicdslupkps868g57ip1jb9fd9aj2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "395140475361-cr0klu1uh71dg80bku16cb6j1mfivd8i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cse299Enqvision"
+              }
+            }
+          ]
         }
       }
     },
@@ -50,7 +84,12 @@
           "package_name": "com.example.enqvision_app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "395140475361-d9tdicdslupkps868g57ip1jb9fd9aj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAarawMbD647oovz23grznUwo3TkgHe3IE"
@@ -58,7 +97,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395140475361-d9tdicdslupkps868g57ip1jb9fd9aj2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "395140475361-cr0klu1uh71dg80bku16cb6j1mfivd8i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cse299Enqvision"
+              }
+            }
+          ]
         }
       }
     }
